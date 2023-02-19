@@ -223,4 +223,3 @@ const oneHundred: bigint = BigInt(100)
 //symbol Данный примитив используется для создания глобально уникальных ссылок с помощью функции Symbol():
 const firstName = Symbol('name')
 
-1
